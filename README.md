@@ -32,7 +32,7 @@ Before getting started, ensure you have the following tools installed:
 
 2. Navigate to the project directory:
    ```bash
-   cd ExaltyTool
+   cd Exalty-Tool
    ```
 
 4. Run this script to install requirements:
