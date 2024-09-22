@@ -1,0 +1,7 @@
+fade
+colorama
+rich
+requests
+beautifulsoup4
+dnspython
+whois
